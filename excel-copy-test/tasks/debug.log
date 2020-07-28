@@ -1,0 +1,152 @@
+[0706/125245.188:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir17764_269994892\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0706/125245.190:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir17764_269994892\Crashpad\reports\19424be7-98ee-4fa6-bb33-6d7bccf26688.dmp: The system cannot find the path specified. (0x3)
+[0706/125245.190:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/134047.075:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir23396_690762618\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0706/134047.077:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir23396_690762618\Crashpad\reports\e6a734a8-14b4-4e2c-a15c-294535b7ab11.dmp: The system cannot find the path specified. (0x3)
+[0706/134047.077:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/134620.612:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir15152_1403874570\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0706/134620.614:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir15152_1403874570\Crashpad\reports\3f946f6a-168f-4d1e-a203-86e28b1eac4a.dmp: The system cannot find the path specified. (0x3)
+[0706/134620.614:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/141059.504:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir3488_629266125\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0706/141059.506:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir3488_629266125\Crashpad\reports\493e3b0e-c95b-43b4-9cd7-4ca8876c2bb8.dmp: The system cannot find the path specified. (0x3)
+[0706/141059.506:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/144103.080:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir15128_779697443\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0706/144103.081:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir15128_779697443\Crashpad\reports\35d38573-97a6-434d-8914-de3bb9bc731a.dmp: The system cannot find the path specified. (0x3)
+[0706/144103.082:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/144947.444:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir10564_840657578\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0706/144947.445:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir10564_840657578\Crashpad\reports\a765b5fc-05e8-4d2c-9900-97a6a3b6ebeb.dmp: The system cannot find the path specified. (0x3)
+[0706/144947.445:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/145730.829:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir10568_1219395733\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0706/145730.831:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir10568_1219395733\Crashpad\reports\00e3050a-e7c4-47bf-a6c2-aecf1707ce78.dmp: The system cannot find the path specified. (0x3)
+[0706/145730.831:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/154033.456:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir4580_815436342\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0706/154033.457:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir4580_815436342\Crashpad\reports\5165f7c0-d029-4099-baf1-b9b00d4b77a7.dmp: The system cannot find the path specified. (0x3)
+[0706/154033.457:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0706/154234.967:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir14780_91058331\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0706/154234.969:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir14780_91058331\Crashpad\reports\80c2415a-c822-41cf-aaf0-d446092691c6.dmp: The system cannot find the path specified. (0x3)
+[0706/154234.969:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/085528.610:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir4808_921794806\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/085528.612:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir4808_921794806\Crashpad\reports\9798e436-cce8-42a2-9714-3244259bee29.dmp: The system cannot find the path specified. (0x3)
+[0707/085528.612:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/085656.045:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir15772_490982981\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0707/085656.050:ERROR:crash_report_database_win.cc(469)] failed to stat report
+[0707/085718.760:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir16804_218407708\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/085718.762:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir16804_218407708\Crashpad\reports\2a5bf94a-4442-42be-8176-3b7c2f256850.dmp: The system cannot find the path specified. (0x3)
+[0707/085718.762:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/085917.106:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir11436_207117168\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/085917.108:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir11436_207117168\Crashpad\reports\8db55a36-ee49-443c-944d-8b61609392c3.dmp: The system cannot find the path specified. (0x3)
+[0707/085917.108:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/090023.270:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir6760_315823174\Crashpad\reports\c8c6a379-7a34-4090-8a81-3a07b2b26b21.dmp: The system cannot find the path specified. (0x3)
+[0707/090023.272:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/090736.623:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir11436_194120111\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/090736.624:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir11436_194120111\Crashpad\reports\9be40b4f-1ece-43d1-98be-d84d1d826129.dmp: The system cannot find the path specified. (0x3)
+[0707/090736.624:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/091002.599:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir16556_531183964\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/091002.600:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir16556_531183964\Crashpad\reports\ca515691-e093-43e9-b322-c70157940862.dmp: The system cannot find the path specified. (0x3)
+[0707/091002.600:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/091048.535:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir2388_1164569462\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/091048.537:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir2388_1164569462\Crashpad\reports\e6bc3ab0-d643-4746-aa34-ec1870aae2e5.dmp: The system cannot find the path specified. (0x3)
+[0707/091048.537:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/091929.211:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir16376_1862307817\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/091929.213:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir16376_1862307817\Crashpad\reports\6752a44d-eb91-4c51-8e96-b6ccbdaaa04a.dmp: The system cannot find the path specified. (0x3)
+[0707/091929.213:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/092806.500:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir21496_1070672239\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/092806.502:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir21496_1070672239\Crashpad\reports\f7f1fd97-4ff7-4973-9320-5d4843b398d1.dmp: The system cannot find the path specified. (0x3)
+[0707/092806.502:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/101330.724:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir2044_1234148958\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/101330.726:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir2044_1234148958\Crashpad\reports\0c987afa-58b7-429e-9862-d5157cf60653.dmp: The system cannot find the path specified. (0x3)
+[0707/101330.726:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/102304.317:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir11032_1210237535\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/102304.319:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir11032_1210237535\Crashpad\reports\332dcaf8-0ab9-4eaa-9d46-6560b26050eb.dmp: The system cannot find the path specified. (0x3)
+[0707/102304.319:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/102426.875:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir5876_435456746\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/102426.877:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir5876_435456746\Crashpad\reports\3ab897ac-7986-439d-ac79-781bacf4eafa.dmp: The system cannot find the path specified. (0x3)
+[0707/102426.877:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/102711.887:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir23960_1863376029\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/102711.889:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir23960_1863376029\Crashpad\reports\1a5e0769-af53-43e3-8510-2327732f543e.dmp: The system cannot find the path specified. (0x3)
+[0707/102711.889:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/102756.944:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir11876_1310925173\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/102756.945:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir11876_1310925173\Crashpad\reports\c21e947c-3f58-4973-8d0e-44bdd8e034b6.dmp: The system cannot find the path specified. (0x3)
+[0707/102756.945:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/102843.681:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir19932_1936622204\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/102843.683:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir19932_1936622204\Crashpad\reports\29e2abb0-369f-4ecb-b5ae-6561e5986d3e.dmp: The system cannot find the path specified. (0x3)
+[0707/102843.683:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/102917.995:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir9740_1645980145\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/102917.997:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir9740_1645980145\Crashpad\reports\f8e230f6-d8b0-4554-8dcb-617202887f42.dmp: The system cannot find the path specified. (0x3)
+[0707/102917.997:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/102950.987:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir18676_1764162915\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/102950.989:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir18676_1764162915\Crashpad\reports\f4d28ed5-05c0-4afd-a603-7f2bd921019a.dmp: The system cannot find the path specified. (0x3)
+[0707/102950.989:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/103124.289:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir14668_264322260\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/103124.290:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir14668_264322260\Crashpad\reports\2298a2e1-3c8c-4485-8eea-c6275f7b46fc.dmp: The system cannot find the path specified. (0x3)
+[0707/103124.290:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/103204.675:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir17228_2007965081\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/103204.676:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir17228_2007965081\Crashpad\reports\f033e197-bb4d-456b-8ded-a29648d4de95.dmp: The system cannot find the path specified. (0x3)
+[0707/103204.676:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/103245.760:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir3928_2045807978\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/103245.763:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir3928_2045807978\Crashpad\reports\98356269-df6d-4755-816b-e8426b017d14.dmp: The system cannot find the path specified. (0x3)
+[0707/103245.763:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/104605.938:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir32_1875852419\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/104605.940:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir32_1875852419\Crashpad\reports\aa369a94-470b-49d5-ba05-f8ee92c2772a.dmp: The system cannot find the path specified. (0x3)
+[0707/104605.940:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/105204.279:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir18364_378724813\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/105204.280:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir18364_378724813\Crashpad\reports\96a8699c-30d2-4be3-a7cf-9fb529124bc6.dmp: The system cannot find the path specified. (0x3)
+[0707/105204.280:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/105702.214:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir23860_469233838\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/105702.215:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir23860_469233838\Crashpad\reports\ac5f0b6c-65ee-453e-b7cb-7ad270bfe985.dmp: The system cannot find the path specified. (0x3)
+[0707/105702.215:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/123312.846:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir16752_1885367212\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/123312.847:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir16752_1885367212\Crashpad\reports\99792e0f-15d4-4bcc-bc09-8a1dd18bcd43.dmp: The system cannot find the path specified. (0x3)
+[0707/123312.847:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/123434.799:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir22308_1039298677\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/123434.801:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir22308_1039298677\Crashpad\reports\f12a7d34-ec87-49fc-8216-0ceb0d2f39fa.dmp: The system cannot find the path specified. (0x3)
+[0707/123434.801:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/124010.882:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir2080_711938769\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/124010.883:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir2080_711938769\Crashpad\reports\76ea5ccb-24e7-46ba-9606-0f7c88f666cd.dmp: The system cannot find the path specified. (0x3)
+[0707/124010.883:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/124449.051:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir22736_379286656\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/124449.052:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir22736_379286656\Crashpad\reports\f7800982-fa9b-43b3-a276-78634b09ca71.dmp: The system cannot find the path specified. (0x3)
+[0707/124449.052:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/124516.564:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir19020_1971013210\Crashpad\settings.dat: The system cannot find the file specified. (0x2)
+[0707/124657.445:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir6488_1585260411\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/124657.447:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir6488_1585260411\Crashpad\reports\31b84f06-a065-4377-b053-2a98944c0738.dmp: The system cannot find the path specified. (0x3)
+[0707/124657.447:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/125318.323:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir20632_587748539\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/125318.325:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir20632_587748539\Crashpad\reports\341bd9df-3e78-4148-936a-c529504705a2.dmp: The system cannot find the path specified. (0x3)
+[0707/125318.325:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/125330.103:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir16252_282012401\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/125330.105:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir16252_282012401\Crashpad\reports\d40932e2-352f-490e-9c73-c715242fd32f.dmp: The system cannot find the path specified. (0x3)
+[0707/125330.105:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/125730.426:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir5484_1472185460\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/125730.428:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir5484_1472185460\Crashpad\reports\6fe3abca-3cd3-4817-bdfd-cd6ee610e4bf.dmp: The system cannot find the path specified. (0x3)
+[0707/125730.428:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/131156.199:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir24188_411832626\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/131156.204:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir24188_411832626\Crashpad\reports\da745995-8985-49fc-97e5-938160e08d50.dmp: The system cannot find the path specified. (0x3)
+[0707/131156.204:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/131448.321:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir4132_1239570720\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/131448.326:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir4132_1239570720\Crashpad\reports\11847994-f4bf-44a9-9770-9c25742acc99.dmp: The system cannot find the path specified. (0x3)
+[0707/131448.326:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/131813.942:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir22532_413407490\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/131813.945:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir22532_413407490\Crashpad\reports\4040cddd-eeaf-435f-b0fa-d44531d0ce4a.dmp: The system cannot find the path specified. (0x3)
+[0707/131813.945:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/132104.785:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir23504_82959513\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/132104.788:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir23504_82959513\Crashpad\reports\09350ebd-0b18-4cc6-9168-393c12305abe.dmp: The system cannot find the path specified. (0x3)
+[0707/132104.788:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/132430.576:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir15496_253743642\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/132430.581:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir15496_253743642\Crashpad\reports\1bc9f36d-d423-4402-a369-f9ed0eebfb46.dmp: The system cannot find the path specified. (0x3)
+[0707/132430.581:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/132630.260:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir14964_742483392\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/132630.262:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir14964_742483392\Crashpad\reports\afc58b59-f7b8-4a2b-b321-dec95cdbdb00.dmp: The system cannot find the path specified. (0x3)
+[0707/132630.262:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/132907.631:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir3296_1165172174\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/132907.636:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir3296_1165172174\Crashpad\reports\d46e332e-a05e-4113-9e7e-78f65f07708f.dmp: The system cannot find the path specified. (0x3)
+[0707/132907.636:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/133001.609:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir19500_251727028\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/133001.612:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir19500_251727028\Crashpad\reports\89bde508-3c58-423c-91b6-8bf20673b94e.dmp: The system cannot find the path specified. (0x3)
+[0707/133001.612:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/141431.986:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir17000_633452314\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/141431.991:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir17000_633452314\Crashpad\reports\6daa3490-2076-4eaa-9c6a-b2a1af03457e.dmp: The system cannot find the path specified. (0x3)
+[0707/141431.991:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
+[0707/142147.693:ERROR:file_io_win.cc(161)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir23880_717312190\Crashpad\settings.dat: The system cannot find the path specified. (0x3)
+[0707/142147.699:ERROR:file_io_win.cc(170)] CreateFile C:\ProgramData\Temp\rc_deb744\AppData\Local\robocorp\RobocodeLab\temp\scoped_dir23880_717312190\Crashpad\reports\f16ac2f7-2b9b-4493-9111-dba8d2eb7335.dmp: The system cannot find the path specified. (0x3)
+[0707/142147.699:ERROR:crash_report_exception_handler.cc(97)] PrepareNewCrashReport failed
